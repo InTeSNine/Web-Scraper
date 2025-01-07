@@ -4,8 +4,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CrawlerController;
 use App\Livewire\WebScraper;
 
-Route::get('/', WebScraper::class);
+Route::get('/', WebScraper::class)
+    // ->middleware(['auth'])
+    ->name('web-scraper');
 Route::post('/crawl', [CrawlerController::class, 'handleCrawl']);
+
 
 Route::view('dashboard', 'dashboard')
 ->middleware(['auth', 'verified'])

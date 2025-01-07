@@ -1,0 +1,37 @@
+"""
+Apple MacBook Pro 16Inch M4 Pro 24GB 512GB
+
+
+از ۱۹۰٫۹۹۹٫۰۰۰ تومان
+
+در ۱۵ فروشگاه
+
+لپ تاپ مک بوک ایر | 8GB RAM | 256GB SSD | M2
+
+از ۶۰٫۹۷۹٫۰۰۰ تومان
+
+در ۴۴ فروشگاه
+
+مک بوک ایر 8GB RAM | 256GB SSD | M1 |
+
+از ۴۸٫۰۰۰٫۰۰۰ تومان
+
+در ۶۳ فروشگاه
+
+لپ تاپ اپل 13.6 اینچی مدل MacBook Air MRX
+
+از ۷۰٫۳۶۹٫۰۰۰ تومان
+
+در ۵۵ فروشگاه
+""" // app\Livewire\WebScraper.php:241
+array:3 [▼ // app\Livewire\WebScraper.php:241
+  "type" => "object"
+  "properties" => array:2 [▶]
+  "required" => array:2 [▶]
+]
+array:4 [▼ // app\Livewire\WebScraper.php:241
+  0 => array:2 [▶]
+  1 => array:2 [▶]
+  2 => array:2 [▶]
+  3 => array:2 [▶]
+]
